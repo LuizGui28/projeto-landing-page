@@ -3,9 +3,9 @@ Este é um projeto de aprendizado na formação do curso, para o desenvolvimento
 
 
 Tecnologias utilizadas:
-HTML
-CSS
-Java Script
+- HTML
+- CSS
+- Java Script
 
 Segue o link do site: https://landing-page-dnc-teste.netlify.app/
 
